@@ -43,6 +43,11 @@ ion-menu.md ion-list#labels-list ion-list-header {
   min-height: 26px;
 }
 
+ion-list-header#bibliotecas {
+  font-size: 16px !important;
+  color:gray;
+}
+
 ion-menu.md ion-item {
   --padding-start: 10px;
   --padding-end: 10px;
@@ -74,7 +79,7 @@ ion-menu.ios ion-list {
 }
 
 ion-menu.ios ion-note {
-  line-height: 24px;
+  line-height: 22px;
   margin-bottom: 20px;
 }
 
